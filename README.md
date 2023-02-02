@@ -4,21 +4,20 @@ Repository for "ALDPF: An Abusive Language Dataset with Psychological Features".
 
 _**About the ALDPF**_
 
-This new dataset includes three columns to denote labels and messages, as well as the characteristics of the annotators who gave the label of each message. This dataset contains 114027 unfolded messages and psychological features, annotated by 505 MTurk workers.
+ALDPF is a abusive language dataset includes three columns to denote labels and messages, as well as the psychological features of the annotators who gave the label of each message. This dataset contains 114027 unfolded messages and psychological features, annotated by 505 MTurk workers.
 * Labels: 1 refers to neutral, and 2 refers to harmful
 * Message: Tweets selected from Founta's dataset
-* Characteristics: Shortened General Attitude and Belief Scale (SGABS) was used, and the results are presented in the same sequence as they are in the original SGBAS. 
+* Psychological Features: Shortened General Attitude and Belief Scale (SGABS) was used, and the results are presented in the same sequence as they are in the original SGBAS. 
 
 
 
 _**Access the ALDPF**_
+
  You can duplicate the dataset with the following steps.
 
 * Access [Founta's Zenodo page](https://zenodo.org/record/3706866#.YjzZfDUReUk) and request access.
 * Put ALDPF.py, datasetfinal_no_message.csv, index.csv, and hatespeech_text_label_vote.csv in the same folder.
 * Execute ALDPF.py and obtain ALDPF.csv
-
-
 
 
 _**Appendix**_
