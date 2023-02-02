@@ -2,7 +2,7 @@
 
 Repository for "ALDPF: An Abusive Language Dataset with Psychological Features". Full text of the paper can be found here
 
-The dataset contains 114027 unfoled messages and psychological features, annotated by 505 MTurk workers. You can dupliate the dataset with the following steps.
+The dataset contains 114027 unfolded messages and psychological features, annotated by 505 MTurk workers. You can duplicate the dataset with the following steps.
 
 * Access [Founta's Zenodo page](https://zenodo.org/record/3706866#.YjzZfDUReUk) and request access.
 * Put ALDPF.py, datasetfinal_no_message.csv, index.csv, and hatespeech_text_label_vote.csv in the same folder.
