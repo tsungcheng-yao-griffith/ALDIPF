@@ -13,8 +13,8 @@ The dataset contains 114027 unfoled messages and psychological features, annotat
 
 _**Appendix**_
 
-* datasetfinal_no_message.csv: a dataset contains new labels and corresponding psychological features . 
-* ALDPF.py: a python script to extract tweets from the Founta's dataset and merge them to ALDPF.
-* index.csv: a supporting document helps ALDPF.py to extract tweets.
-* hatespeech_text_label_vote.csv : the full version Founta's dataset which can be acquired from Founta's Zenodo page.
-* ALDPF.csv : the full version ALDPF
+* datasetfinal_no_message.csv: a dataset contains new labels and corresponding psychological features. 
+* ALDPF.py: a python script to extract tweets from Founta's dataset and merge them with ALDPF.
+* index.csv: a supporting document helps ALDPF.py to pull tweets.
+* hatespeech_text_label_vote.csv: the full version of Founta's dataset, which can be acquired from Founta's Zenodo page.
+* ALDPF.csv : the full version of ALDPF
