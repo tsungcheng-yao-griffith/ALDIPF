@@ -8,6 +8,9 @@ The dataset provided here contains 114027 unfoled messages, labelled by 505 MTur
 * Place ALDPF.py, datasetfinal_no_message.csv, index.csv, and hatespeech_text_label_vote.csv in the same folder.
 * Execute ALDPF.py and obtain ALDPF.csv
 
+
+
+
 _**Appendix**_
 
 * datasetfinal_no_message.csv: a dataset contains new labels and corresponding psychological features . 
