@@ -7,7 +7,7 @@ _**About the ALDPF**_
 ALDaPF is a abusive language dataset includes three features to denote labels and messages, as well as the psychological features of the annotators who gave the label of each message. This dataset contains 114,027 unfolded messages (38,009 uniqle messages) and psychological features, annotated by 505 MTurk workers.
 * Labels: 1 refers to neutral, and 2 refers to harmful
 * Message: Tweets selected from Founta's dataset
-* Psychological Features: Shortened General Attitude and Belief Scale (SGABS) was used, and the results are presented in the same sequence as they are in the original SGBAS. 
+* Psychological Features: Shortened General Attitude and Belief Scale (SGABS) was used, and the results are presented in the same sequence as they are in the original [SGBAS](https://opal.latrobe.edu.au/articles/educational_resource/Shortened_General_Attitude_and_Belief_Scale_SGABS_/14869962).
 
 
 
