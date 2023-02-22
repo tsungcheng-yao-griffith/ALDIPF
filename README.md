@@ -25,5 +25,5 @@ _**Appendix**_
 * datasetfinal_no_message.csv: a dataset contains new labels and corresponding psychological features. 
 * ALDaPF.py: a python script to extract messages from Founta's dataset and merge them with 'datasetfinal_no_message.csv'.
 * index.csv: a supporting document helps ALDaPF.py to select the right messages in the right sequence.
-* hatespeech_text_label_vote_RESTRICTED_100K.csv: the full version of Founta's dataset, which can be acquired from Founta's Zenodo page. (MD5: 802b3cc354ba15ed162c9d03607e8fc4)
+* hatespeech_text_label_vote_RESTRICTED_100K.csv: the full version of Founta's dataset, which can be acquired from Founta's Zenodo page.
 * ALDaPF.csv : the full version of ALDaPF (MD5: 9c03a37d21c1e47489d76e1738bb3698) 
