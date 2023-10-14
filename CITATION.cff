@@ -1,0 +1,9 @@
+@software{Lisa_My_Research_Software_2017,
+  author = {Yao, Tsungcheng; Foo, Ernest; Binnewies, Sebastian },
+  doi = {},
+  month = {12},
+  title = {{My Research Software}},
+  url = {https://github.com/github-linguist/linguist},
+  version = {2.0.4},
+  year = {2017}
+}
