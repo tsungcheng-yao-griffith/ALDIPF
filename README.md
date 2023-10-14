@@ -1,5 +1,5 @@
 # Abusive Messages and Personal Perceptions 
-
+IMPORTANT!!!!This paper is currently under review. If you have any questions, don't hesitate to get in touch with us! 
 Repository for "ALDaPF: An Abusive Language Dataset with Psychological Features". Full text of the paper can be found here
 
 _**About the ALDaPF**_
