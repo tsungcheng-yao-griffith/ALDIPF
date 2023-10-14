@@ -1,9 +1,9 @@
-@software{Lisa_My_Research_Software_2017,
+@software{Yao_ALDIPF_2023,
   author = {Yao, Tsungcheng; Foo, Ernest; Binnewies, Sebastian },
   doi = {},
-  month = {12},
-  title = {{My Research Software}},
-  url = {https://github.com/github-linguist/linguist},
-  version = {2.0.4},
-  year = {2017}
+  month = {02},
+  title = {{ALDIPF: An Abusive Language Dataset Includes Psychological Features}},
+  url = {https://github.com/tsungcheng-yao-griffith/ALDaPF/},
+  version = {1},
+  year = {2023}
 }
