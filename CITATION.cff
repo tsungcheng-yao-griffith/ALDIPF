@@ -1,9 +1,0 @@
-@software{Yao_ALDIPF_2023,
-  author = {Yao, Tsungcheng; Foo, Ernest; Binnewies, Sebastian },
-  doi = {},
-  month = {02},
-  title = {{ALDIPF: An Abusive Language Dataset Includes Psychological Features}},
-  url = {https://github.com/tsungcheng-yao-griffith/ALDaPF/},
-  version = {1},
-  year = {2023}
-}
