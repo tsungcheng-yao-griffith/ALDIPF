@@ -1,4 +1,4 @@
-Repository for "ALDIPF: An Abusive Language Dataset Includes Psychological Features". The full text of the paper can be found here.
+Repository for "ALDIPF: An Abusive Language Dataset Includes Psychological Features".
 
 _**About the ALDIPF**_
 
