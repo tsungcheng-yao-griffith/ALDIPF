@@ -25,3 +25,13 @@ _**Appendix**_
 * index.csv: a supporting document helps ALDIPF.py to select the right messages in the right sequence.
 * hatespeech_text_label_vote_RESTRICTED_100K.csv: the full version of Founta's dataset, which can be acquired from [Founta's Zenodo page](https://zenodo.org/record/3706866#.YjzZfDUReUk).
 * ALDIPF.csv : the full version of ALDIPF (MD5: 9c03a37d21c1e47489d76e1738bb3698) 
+
+
+_**Cite this Dataset**_
+@misc{yao2022aldipf,
+  author = {Tsuncheng Yao and Sebastian Binnewies and Ernest Foo and Macie Alavi},
+  title = {{ALDIPF}: An Abusive Language Dataset Includes Psychological Features},
+  year = {2022},
+  howpublished = {\url{https://github.com/tsungcheng-yao-griffith/ALDIPF}},
+  note = {Accessed June 29, 2024}
+}
