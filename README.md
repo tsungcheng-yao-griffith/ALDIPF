@@ -18,6 +18,35 @@ _**Access the ALDIPF**_
 * Execute ALDIPF.py and obtain ALDIPF.csv
 
 
+_**Dataset Description**_
+
+ALDIPF is an abusive language dataset comprising 38,009 unique messages or a total of 114,027 annotated
+messages. This dataset is built on the Founta dataset and enhanced with additional psychological features. These
+features – Messages, Psychological Features, and Class labels denote the essential components of the ABC model.
+Messages are Triggers; the Psychological Features refer to one’s Beliefs and Attitudes; the Class Labels indicate the
+emotional Consequences the Messages provoke. An introduction of each feature is as follows.
+ALDIPF collected messages from the Founta dataset that satisfied two criteria: (i) messages that were originally
+annotated as “normal”, and (ii) messages that did not reach full consensus on a voting scheme. This selection of
+messages was based on a hypothesis that the impact of the psychological features may be more substantial on these
+contested messages.
+
+ALDIPF categorised messages into two Class Labels: Neutral and Harmful. These labels were tagged based on
+annotators’ perceptions (or feelings) about messages after reading them. 65.6% of the messages were tagged as Neutral,
+and the rest were labelled as Harmful. In addition, if a voting scheme aggregates these Class Labels, the Neutral Labels
+count 73.5%.
+
+Psychological Features were measured by “Five-point Shortened General Attitude and Belief Scale (SGABS)”.
+SGABS measures ones’ psychological features from seven aspects that can be transferred to several clinical indicators.
+These clinical indicators can either help predict one’s general well-being or differentiate particular groups of individuals
+from others.
+
+Lastly, ALDIPF allows one message to be associated with
+more than one Class Label. That is because, according to the ABC model, annotators with different psychological
+features can feel the same messages in different ways. Additionally, the psychological Features comprise eight SGABS
+items that follow the same sequence as shown in Table 1. Lastly, the Source column is not provided in the open-accessed
+ALDIPF.
+
+
 _**Appendix**_
 
 * datasetfinal_no_message.csv: a dataset contains new labels and corresponding psychological features. 
@@ -28,6 +57,7 @@ _**Appendix**_
 
 
 _**Cite this Dataset**_
+
 @misc{yao2022aldipf,
   author = {Tsuncheng Yao and Sebastian Binnewies and Ernest Foo and Macie Alavi},
   title = {{ALDIPF}: An Abusive Language Dataset Includes Psychological Features},
