@@ -58,10 +58,15 @@ _**Appendix**_
 
 _**Cite this Dataset**_
 
-@misc{yao2022aldipf,
-  author = {Tsuncheng Yao and Sebastian Binnewies and Ernest Foo and Macie Alavi},
-  title = {{ALDIPF}: An Abusive Language Dataset Includes Psychological Features},
-  year = {2022},
-  howpublished = {\url{https://github.com/tsungcheng-yao-griffith/ALDIPF}},
-  note = {Accessed June 29, 2024}
+@article{YAO2025127188,
+title = {See the words through my eyes: The role of personal traits in abusive language detection},
+journal = {Expert Systems with Applications},
+volume = {276},
+pages = {127188},
+year = {2025},
+issn = {0957-4174},
+doi = {https://doi.org/10.1016/j.eswa.2025.127188},
+url = {https://www.sciencedirect.com/science/article/pii/S0957417425008103},
+author = {Tsungcheng Yao and Sebastian Binnewies and Ernest Foo and Masoumeh Alavi},
+keywords = {Cyberbullying, Ellis’ ABC model, Psychological features, Dataset preparation framework, Abusive language dataset, Personalised abusive language detection}
 }
