@@ -68,5 +68,4 @@ issn = {0957-4174},
 doi = {https://doi.org/10.1016/j.eswa.2025.127188},
 url = {https://www.sciencedirect.com/science/article/pii/S0957417425008103},
 author = {Tsungcheng Yao and Sebastian Binnewies and Ernest Foo and Masoumeh Alavi},
-keywords = {Cyberbullying, Ellis’ ABC model, Psychological features, Dataset preparation framework, Abusive language dataset, Personalised abusive language detection}
 }
